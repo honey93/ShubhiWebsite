@@ -72,9 +72,9 @@ export default {
       meta: [
         {
           hid: "Contact",
-          name: "Contact Honey Thakuria",
+          name: "Contact Shubhi Thakuria",
           content:
-            "Honey Thakuria writes for leading Publications like freeCodeCamp, Codeburst.io on Medium. Visist this page to contact him"
+            "Shubhi Thakuria writes for leading Publications like freeCodeCamp, Codeburst.io on Medium. Visist this page to contact him"
         }
       ]
     };

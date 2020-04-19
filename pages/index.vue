@@ -113,7 +113,7 @@
 
       <!-- <div>
         <img src="~/static/honeythakuria.jpeg"  class="main_image"/>
-        <h3>Honey Thakuria</h3>
+        <h3>Shubhi Thakuria</h3>
         <h3 class="titlePosition" >Developer, Blogger, Entrepreneur</h3>
         
       </div>-->
@@ -153,13 +153,13 @@ export default {
   },
   head() {
     return {
-      title: "Honey Thakuria",
+      title: "Shubhi Thakuria",
       meta: [
         {
           hid: "Personal",
-          name: "Honey Thakuria personal Website",
+          name: "Shubhi Thakuria personal Website",
           content:
-            "Honey Thakuria is a Full Stack Developer with expertise in Cloud, BlockChain & Web application. He also writes for leading publications on Medium. Check out Honey's blogs, projects here"
+            "Shubhi Thakuria is a Full Stack Developer with expertise in Cloud, BlockChain & Web application. SHe also writes for leading publications on Medium. Check out Shubhi's blogs, projects here"
         }
       ]
     };
