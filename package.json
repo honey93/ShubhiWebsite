@@ -1,0 +1,31 @@
+{
+  "name": "honeythakuria",
+  "version": "1.0.0",
+  "description": "Honey Thakuria personal Website",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": " nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "heroku-postbuild": "npm run build"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.8",
+    "@fortawesome/fontawesome-free-brands": "^5.0.13",
+    "@fortawesome/fontawesome-svg-core": "^1.2.27",
+    "@fortawesome/free-solid-svg-icons": "^5.12.1",
+    "@fortawesome/vue-fontawesome": "^0.1.9",
+    "@nuxtjs/axios": "^5.9.5",
+    "@nuxtjs/pwa": "^2.6.0",
+    "bootstrap": "^4.4.1",
+    "bootstrap-vue": "^2.6.0",
+    "cross-env": "^5.2.1",
+    "nuxt": "^2.11.0",
+    "nuxt-fontawesome": "^0.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
