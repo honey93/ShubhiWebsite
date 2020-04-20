@@ -3,6 +3,7 @@ export const state = () => {
     {
       id: 1,
       title: "Inclusive Use of Broadband Connectivity for Quality Education",
+      objective: "X",
       url:
         "https://www.unescap.org/sites/default/files/Inclusive%20Use%20of%20Broadband%20Connectivity%20for%20Quality%20Education%2C%20Insights%20from%20Asia%20and%20the%20Pacific_0.pdf",
       publication: "United Nations ESCAP",
@@ -13,6 +14,7 @@ export const state = () => {
     {
       id: 2,
       title: "Business and Social Opportunity for E-Learning in Indian Agriculture",
+      objective: "X",
       url:
         "https://drive.google.com/open?id=1VwY-sJUGCg3zt4dHwrBRXSmT5eh9Xv8T",
       publication: "Coursera",
@@ -22,8 +24,8 @@ export const state = () => {
     },
     {
       id: 3,
-      title:
-        "Physics and Technology for Future Presidents",
+      title:"Physics and Technology for Future Presidents",
+      objective: "X",
       url:
         "https://drive.google.com/drive/folders/1fj5rJhsS10e5dW8fALhTF2AsBrX-s44z?usp=sharing",
       publication: "University of California, Berkeley",
@@ -34,6 +36,7 @@ export const state = () => {
     {
       id: 4,
       title: "IIMA’s Digital Leap: Formulating Online Education Strategy",
+      objective: "X",
       url:
         "https://cases.iima.ac.in/index.php/iima-s-digital-leap-formulating-online-education-strategy.html",
       publication: "Indian Institute of Management, Ahmedabad",
@@ -43,8 +46,8 @@ export const state = () => {
     },
     {
       id: 5,
-      title:
-        "Okhai Center for Empowerment: Refashioning the lives of rural women",
+      title:"Okhai Center for Empowerment: Refashioning the lives of rural women",
+      objective: "X",
       url:
         "https://cases.iima.ac.in/index.php/okhai-centre-for-empowerment-refashioning-the-lives-of-rural-women.html",
       publication: "Okhai Enterprise ",
@@ -55,8 +58,8 @@ export const state = () => {
 
     {
       id: 6,
-      title:
-        "Salesforce training material",
+      title:"Salesforce training material",
+      objective: "X",
       url:
         "",
       publication: "Room To Read",
@@ -70,7 +73,8 @@ export const state = () => {
       id: 7,
       title:
        "Grihini Social Welfare Society: Breaking Stereotypes Empowering Women",
-      url:
+       objective: "X",
+       url:
          "https://www.researchgate.net/publication/330145312_Tata_Motors_Grihini_Social_Welfare_Society_'Breaking_Stereotypes_Empowering_Women",
       publication: "Tata Motors Limited",
       Year: "2015",
@@ -82,6 +86,7 @@ export const state = () => {
       id: 8,
       title:
         "Club Enerji Program",
+      objective: "X",
       url:
          "https://www.researchgate.net/publication/330145381_Club_Enerji_Program_at_Tata_Power",
       publication: "Tata Power Limited",
@@ -93,6 +98,7 @@ export const state = () => {
       id: 9,
       title:
         "SauMill: The Journey of Cost & Value Innovation at Tata Communications Limited",
+      objective:"X",
       url:
          "http://www.openinnovationtmc.org/HOME/soitmc/sub/sub.htm?nav_code=soi1479103409",
       publication: "Tata Communication Limited",
@@ -104,6 +110,7 @@ export const state = () => {
       id: 10,
       title:
         "Greenolution: Sensitizing Employees on Environmental Conservation",
+      objective: "X",
       url:
          "https://www.researchgate.net/publication/312085946_Greenolution_IMRA-IIMB_Publication",
       publication: "Tata Power Limited",
@@ -116,6 +123,7 @@ export const state = () => {
       id: 11,
       title:
         "Professional Driver Training Initiative: Paving the Ways for The Skilled Truck Drivers",
+      objective: "X",
       url:
          "",
       publication: "Tata Motors Limited",

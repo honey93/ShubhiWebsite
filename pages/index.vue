@@ -34,6 +34,8 @@
                 <div class="stuffText">
                   <p class=""> <span class="stuffTextTitle">  Title: </span>  <span class= "xyz"> {{individualStuff.title}} </span> </p>
                   <p>
+                  <p class=""> <span class="stuffTextTitle">  Objective: </span>  <span class= "stuffDesc"> {{individualStuff.objective}} </span> </p>
+                  <p>
                     <span class="publicationText"><span class="stuffTextTitle"> Client: </span>  </span>
                      <span class="stuffDesc"> {{individualStuff.publication}} </span>
                   </p>
@@ -58,6 +60,8 @@
                 </div>
                 <div class="stuffText">
                   <p class="stuffTextTitle"> Title: <span class= "xyz">  {{individualStuff.title}} </span> </p>
+                  <p class=""> <span class="stuffTextTitle">  Objective: </span>  <span class= "stuffDesc"> {{individualStuff.objective}} </span> </p>
+
                    <p>
                     <span class="publicationText"><span class="stuffTextTitle"> Client: </span>  </span>
                      <span class="stuffDesc"> {{individualStuff.publication}} </span>
@@ -120,7 +124,6 @@
     </section>
   </div>
 </template>
-
 <script>
 import Logo from "~/components/Logo.vue";
 
@@ -230,8 +233,8 @@ export default {
   float: right;
 }
 .heroBanner {
-  margin-top: 267px;
-  margin-bottom: 267px;
+  margin-top: 170px;
+  margin-bottom: 100px;
 }
 .stuffSection {
   margin-bottom: 240px;
