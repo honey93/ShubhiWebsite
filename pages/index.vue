@@ -73,7 +73,7 @@
         </div>
       </div>
 
-      <div class="stuffSection">
+      <!--<div class="stuffSection">
         <div class="row">
           <div class="col-md-6">
             <h1 class="stuffTitle">Places I've worked</h1>
@@ -109,7 +109,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <!-- <div>
         <img src="~/static/honeythakuria.jpeg"  class="main_image"/>
