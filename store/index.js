@@ -3,18 +3,18 @@ export const state = () => {
     {
       id: 1,
       title: "Inclusive Broadband Connectivity",
-      objective: "Created policy advocacy content for 50+ Asia Pacific countries",
+      objective: "Created policy advocacy content for 50+ Asia Pacific countries.",
       url:
         "https://www.unescap.org/sites/default/files/Inclusive%20Use%20of%20Broadband%20Connectivity%20for%20Quality%20Education%2C%20Insights%20from%20Asia%20and%20the%20Pacific_0.pdf",
       publication: "United Nations ESCAP",
       Year: "2019",
       imageUrl:
-        "UNPoster.png"
+        "UNZ.png"
     },
     {
       id: 2,
-      title:"Salesforce training material",
-      objective: "Created training modules and trained employees to use Salesforce features ",
+      title:"Salesforce Training",
+      objective: "Created training modules and trained employees to use Salesforce features.",
       url:
         "Confidential material",
       publication: "Room To Read",
@@ -25,16 +25,15 @@ export const state = () => {
     
     {
       id: 3,
-      title:
-       "Social Welfare Society: Empowering Women",
-       objective: "Create social sector enterprise scaling strategy training material for corporate social responsibility professionals. Won Best Case Award from International Management Research Academy, London.",
-       url:
-         "https://drive.google.com/open?id=1ftjbr4B4YgbacxewpOARLlu3Ox2kbYk3",
-      publication: "Grihini, Tata Motors Limited",
-      Year: "2015",
+      title:"Okhai Center for Empowerment",
+      objective: "Created training material for a Handicraft Organization.",
+      url:
+        "https://cases.iima.ac.in/index.php/okhai-centre-for-empowerment-refashioning-the-lives-of-rural-women.html",
+      publication: "Okhai Enterprise ",
+      Year: "2017",
       imageUrl:
-        "GH1.png" 
-      },
+        "Okhai1.png"
+    },
     
       {
         id: 4,
@@ -46,19 +45,19 @@ export const state = () => {
         publication: "Tata Power Limited",
         Year: "2016",
         imageUrl:
-          "CEE1.png"
+          "CE2.png"
       },
     {
       id: 5,
       title:
-        "SauMill: The Journey of Cost & Value Innovation at Tata Communications Limited",
-      objective:"X",
+        "Cost & Value Innovation",
+      objective:"Created training material for management students and corporate employees to foster innovative thinking.",
       url:
          "http://www.openinnovationtmc.org/HOME/soitmc/sub/sub.htm?nav_code=soi1479103409",
       publication: "Tata Communication Limited",
       Year: "2017",
       imageUrl:
-        "SAU.png"
+        "SM1.png"
     },
 
     {
@@ -89,7 +88,7 @@ export const state = () => {
     {
       id: 8,
       title: "IIMA’s Digital Leap: Online Education Strategy",
-      objective: "Create training material for e-learning business development; resulted in launch of online courses earning $X Mn annually",
+      objective: "Created training material for e-learning business development; resulted in launch of online courses earning $X Mn annually.",
       url:
         "https://cases.iima.ac.in/index.php/iima-s-digital-leap-formulating-online-education-strategy.html",
       publication: "Indian Institute of Management, Ahmedabad",
@@ -100,39 +99,41 @@ export const state = () => {
 
     {
       id: 9,
-      title:"Okhai Center for Empowerment: Refashioning lives",
-      objective: "Created training material for a Handicraft Organization",
-      url:
-        "https://cases.iima.ac.in/index.php/okhai-centre-for-empowerment-refashioning-the-lives-of-rural-women.html",
-      publication: "Okhai Enterprise ",
-      Year: "2017",
+      title:
+       "Social Welfare Society: Empowering Women",
+       objective: "Created social sector enterprise scaling strategy training material for corporate social responsibility professionals. Won Best Case Award from International Management Research Academy, London.",
+       url:
+         "https://drive.google.com/open?id=1ftjbr4B4YgbacxewpOARLlu3Ox2kbYk3",
+      publication: "Grihini, Tata Motors Limited",
+      Year: "2015",
       imageUrl:
-        "Okhai.png"
-    },
+        "GH1.png" 
+      },
+
     {
       id: 10,
       title:
-        "Greenolution: Sensitizing Employees on Environmental Conservation",
-      objective: "X",
+        "Environmental Conservation for Employees",
+      objective: "Created learning material on environmental conservation for 5000+ Tata Power employees.",
       url:
-         "https://www.researchgate.net/publication/312085946_Greenolution_IMRA-IIMB_Publication",
+         "https://drive.google.com/open?id=15AwxJpoeQaCsUqrEefe11lm_paTQPJCu",
       publication: "Tata Power Limited",
       Year: "2016",
       imageUrl:
-        "GNR1.png"
+        "GNR11.png"
     },
 
     {
       id: 11,
       title:
-        "Professional Driver Training Initiative: Paving the Ways for The Skilled Truck Drivers",
-      objective: "X",
+        "Creating Skilled Truck Drivers",
+      objective: "Created training material for new employee orientation.",
       url:
          "",
       publication: "Tata Motors Limited",
       Year: "In Process",
       imageUrl:
-        "PDTI.png"
+        "TMLA.png"
     }
   ],
   companies:[{id:1,name:"Room To Read",url:"R2R.png",duration:"Jan 2020 - Apil 2020"},
