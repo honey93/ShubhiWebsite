@@ -2,34 +2,33 @@ export const state = () => {
   return { count: 3,allowedUrls:["how-to-set-up-responsive-ui-search-in-vue-js","vue-blog"],stuff:[
     {
       id: 1,
-      title: "Inclusive Broadband Connectivity",
-      objective: "Created policy advocacy content for 50+ Asia Pacific countries.",
-      url:
-        "https://www.unescap.org/sites/default/files/Inclusive%20Use%20of%20Broadband%20Connectivity%20for%20Quality%20Education%2C%20Insights%20from%20Asia%20and%20the%20Pacific_0.pdf",
-      publication: "United Nations ESCAP",
-      Year: "2019",
-      imageUrl:
-        "UNZ.png"
-    },
-    {
-      id: 2,
       title:"Salesforce Training",
-      objective: "Created training modules and trained employees to use Salesforce features.",
-      url:
-        "Confidential material",
-      publication: "Room To Read",
+      objective: "Created Salesforce training using Articulate Storyline 360 and trained employees.",
+      publication: "Room To Read, San Francisco, USA",
       Year: "2020",
       imageUrl:
         "SF1.png"
     },
     
     {
+      id: 2,
+      title: "Broadband Connectivity for Quality Education",
+      objective: "Created e-learning policy advocacy content for 50+ Asia Pacific countries.",
+      url:
+        "https://www.slideshare.net/secret/9STeW9GnNlmmFg",
+      publication: "United Nations ESCAP, Bangkok, Thailand",
+      Year: "2019",
+      imageUrl:
+        "UNZ1.png"
+    },
+
+    {
       id: 3,
       title:"Okhai Center for Empowerment",
-      objective: "Created training material for a Handicraft Organization.",
+      objective: "Created employee onboarding training material for a Handicraft organization and sustainability professionals.",
       url:
-        "https://cases.iima.ac.in/index.php/okhai-centre-for-empowerment-refashioning-the-lives-of-rural-women.html",
-      publication: "Okhai Enterprise ",
+        "https://www.slideshare.net/secret/hk4W0qSVr9L1pc",
+      publication: "Okhai Enterprise, Gujarat, India",
       Year: "2017",
       imageUrl:
         "Okhai1.png"
@@ -39,10 +38,10 @@ export const state = () => {
         id: 4,
         title:
           "Club Enerji Program",
-        objective: "Created energy conservation training material for environment professionals and school leadership. Reached 450+ Indian schools.",
+        objective: "Created training material for environment professionals and school leadership. Reached 450+ schools.",
         url:
-           "https://drive.google.com/open?id=1SfOLcYTDFg3R0tf0QyBiptHJNc586Xdm",
-        publication: "Tata Power Limited",
+           "https://www.slideshare.net/secret/HN7IJr5LSjfqyG",
+        publication: "Tata Power Limited, Mumbai, India",
         Year: "2016",
         imageUrl:
           "CE2.png"
@@ -53,45 +52,45 @@ export const state = () => {
         "Cost & Value Innovation",
       objective:"Created training material for management students and corporate employees to foster innovative thinking.",
       url:
-         "http://www.openinnovationtmc.org/HOME/soitmc/sub/sub.htm?nav_code=soi1479103409",
-      publication: "Tata Communication Limited",
+         "https://www.slideshare.net/secret/r7w3c0luJid0ai",
+      publication: "Tata Communication Limited, Mumbai, India",
       Year: "2017",
       imageUrl:
         "SM1.png"
     },
 
+
     {
       id: 6,
-      title:"Physics and Technology for Future Presidents",
-      objective: "Taught 170+ undergraduate students and created classroom teaching and course assessment for teaching Physics.",
+      title: " E-Learning in Agriculture ",
+      objective: "Created instruction development framework with potential to impact 100 Mn people.",
       url:
-        "https://drive.google.com/drive/folders/1TrusSz07Jn0U1euX9QX_WDaAT-WnIxVX?usp=sharing",
-      publication: "University of California, Berkeley",
-      Year: "2018",
-      imageUrl:
-        "QC1.png"
-    },
-
-    {
-      id: 8,
-      title: " Agriculture E-Learning",
-      objective: "Created instruction development framework for e-learning with potential to impact 100 Mn farmers.",
-      url:
-        "https://drive.google.com/file/d/1qz3ea8c6C57pBCDN9g0Y38xNkdVvfDZi/view?usp=sharing",
-      publication: "Coursera",
+        "https://www.slideshare.net/secret/EGBdN99RltKLkw",
+      publication: "Coursera, Mountain View, USA",
       Year: "2019",
       imageUrl:
-        "CS1.png"
+        "CS11.png"
     },
 
+    {
+      id: 7,
+      title:"Physics and Technology for Future Presidents",
+      objective: "Taught 200+ undergraduates and created training content using Articulate Storyline.",
+      url:
+        "https://drive.google.com/drive/folders/1TrusSz07Jn0U1euX9QX_WDaAT-WnIxVX?usp=sharing",
+      publication: "University of California, Berkeley, USA",
+      Year: "2018",
+      imageUrl:
+        "QC2.png"
+    },
 
     {
       id: 8,
-      title: "IIMA’s Digital Leap: Online Education Strategy",
-      objective: "Created training material for e-learning business development; resulted in launch of online courses earning $X Mn annually.",
+      title: "Online Education Strategy",
+      objective: "E-learning business development plan and course material for postgraduate students; program earns $X Mn annually.",
       url:
-        "https://cases.iima.ac.in/index.php/iima-s-digital-leap-formulating-online-education-strategy.html",
-      publication: "Indian Institute of Management, Ahmedabad",
+        "https://www.slideshare.net/secret/gTd0qFKdBZUhk",
+      publication: "Indian Institute of Management, Ahmedabad, India",
       Year: "2019",
       imageUrl:
         "IIMA1.png"
@@ -101,10 +100,10 @@ export const state = () => {
       id: 9,
       title:
        "Social Welfare Society: Empowering Women",
-       objective: "Created social sector enterprise scaling strategy training material for corporate social responsibility professionals. Won Best Case Award from International Management Research Academy, London.",
+       objective: "Created enterprise scaling training material for sustainability professionals and 800+ employees. Won Best Case Award from International Management Research Academy, London.",
        url:
-         "https://drive.google.com/open?id=1ftjbr4B4YgbacxewpOARLlu3Ox2kbYk3",
-      publication: "Grihini, Tata Motors Limited",
+         "https://www.slideshare.net/secret/MxBFJniP26NzmF",
+      publication: "Grihini, Tata Motors Limited, Pune, India",
       Year: "2015",
       imageUrl:
         "GH1.png" 
@@ -113,11 +112,11 @@ export const state = () => {
     {
       id: 10,
       title:
-        "Environmental Conservation for Employees",
-      objective: "Created learning material on environmental conservation for 5000+ Tata Power employees.",
+        "Environmental Conservation by Employees",
+      objective: "Evaluated impact and created environmental conservation learning material for 5000+ employees.",
       url:
-         "https://drive.google.com/open?id=15AwxJpoeQaCsUqrEefe11lm_paTQPJCu",
-      publication: "Tata Power Limited",
+         "https://www.slideshare.net/secret/GlS1FmTSn36OOE",
+      publication: "Tata Power Limited, Mumbai, India",
       Year: "2016",
       imageUrl:
         "GNR11.png"
@@ -127,16 +126,16 @@ export const state = () => {
       id: 11,
       title:
         "Creating Skilled Truck Drivers",
-      objective: "Created training material for new employee orientation.",
+      objective: "Created training material for sustainability professionals and employee onboarding.",
       url:
-         "",
-      publication: "Tata Motors Limited",
+         "https://www.slideshare.net/secret/j1MZ95WamJn2lH",
+      publication: "Tata Motors Limited, Pune, India",
       Year: "In Process",
       imageUrl:
         "TMLA.png"
     }
   ],
-  companies:[{id:1,name:"Room To Read",url:"R2R.png",duration:"Jan 2020 - Apil 2020"},
+  companies:[{id:1,name:"Room To Read",url:"R2R1.png",duration:"Jan 2020 - Apil 2020"},
   {id:2,name:"Coursera",url:"cour.png", duration:"Nov 2019 - May 2020"},
   {id:3,name:"UC Berkeley",url:"UCBL.jpg", duration:"Jan 2018 - May 2019"},
   {id:4,name:"United Nations",url:"UN2.jpg",duration:"May 2018 - July 2018"}]

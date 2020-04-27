@@ -8,7 +8,7 @@
             <p class="heroName">I’m Shubhi</p>
             <p
               class="heroDescription"
-            >I’m passionate to empower learners through ed-tech and engaging learning programs!</p>
+            >I’m passionate to empower learners through ed-tech and engaging programs!</p>
             <p class="heroDescription"> I can help you with <span class="techColor"> {{this.tech}} </span> <span v-if="showTyping"> | </span> </p>
           </div>
           <div class="col-md-5">
@@ -40,8 +40,8 @@
                      <span class="stuffDesc"> {{individualStuff.publication}} </span>
                   </p>
                   <p>
-                    <span class="publicationText"><span class="stuffTextTitle"> Year: </span></span>
-                      <span class="stuffDesc"> {{individualStuff.Year}} </span>
+                    <!-- <span class="publicationText"><span class="stuffTextTitle"> Year: </span></span>
+                      <span class="stuffDesc"> {{individualStuff.Year}} </span> -->
                   </p>
                 </div>
               </a>
@@ -67,8 +67,8 @@
                      <span class="stuffDesc"> {{individualStuff.publication}} </span>
                   </p>
                   <p>
-                    <span class="publicationText"><span class="stuffTextTitle"> Year: </span></span>
-                      <span class="stuffDesc"> {{individualStuff.Year}} </span>
+                    <!-- <span class="publicationText"><span class="stuffTextTitle"> Year: </span></span>
+                      <span class="stuffDesc"> {{individualStuff.Year}} </span>-->
                   </p>
                 </div>
               </a>
@@ -76,24 +76,25 @@
           </div>
         </div>
       </div>
-
-      <!--<div class="stuffSection">
+<!--
+      <div class="stuffSection"> 
         <div class="row">
           <div class="col-md-6">
-            <h1 class="stuffTitle">Places I've worked</h1>
+            <h1 class="stuffTitle">Happy Clients ! </h1>
             <div
-              class="stuffParent"
+               class="stuffParent"
               v-for="individualCompany in $store.state.companies"
               :key="individualCompany.id"
               v-if="individualCompany.id < 3"
             >
               <div class="stuffImage">
-                <img :src="individualCompany.url" class="stuffImageActual image-hun" />
-              </div>
+                <img :src="individualCompany.url"/>
+              <!--</div> -->
+              <!--
               <div class="stuffText">
                 <p class="companyTitle">{{individualCompany.name}}</p>
                 <p class="companyDuration">{{individualCompany.duration}}</p>
-              </div>
+              </div> 
             </div>
           </div>
           <div class="col-md-6">
@@ -104,12 +105,12 @@
               v-if="individualCompany.id >= 3"
             >
               <div class="stuffImage">
-                <img :src="individualCompany.url" class="stuffImageActual image-hun" />
+                <img :src="individualCompany.url" class="stuffImageActual image-hun" / width:20% height:20%">
               </div>
-              <div class="stuffText">
+             <div class="stuffText">
                 <p class="companyTitle">{{individualCompany.name}}</p>
                 <p class="companyDuration">{{individualCompany.duration}}</p>
-              </div>
+              </div> 
             </div>
           </div>
         </div>
@@ -172,19 +173,23 @@ export default {
       showTyping:true,
       tech: "",
       arrayTech: [
-        "Instruction Design",
-        "Case Studies",
         "E-Learning",
+        "Instructional Design",
+        "Case Writing",
+        "Program Development",
+        "Virtual Learning",
         "Research",
         "Content Development",
         "Data Analysis",
         "Project Management",
+        "Proposal Writing",
         "Consulting",
         "Camptasia",
         "Articulate Storyline",
         "Python",
         "Excel",
         "Tableau",
+        "Power point"
       ]
     };
   },
