@@ -109,8 +109,22 @@ export const state = () => {
         "GH1.png" 
       },
 
+  
     {
       id: 10,
+      title:
+        "Creating Skilled Truck Drivers",
+      objective: "Created training material for sustainability professionals and employee onboarding.",
+      url:
+         "https://www.slideshare.net/secret/j1MZ95WamJn2lH",
+      publication: "Tata Motors Limited, Pune, India",
+      Year: "In Process",
+      imageUrl:
+        "TMLA.png"
+    },
+
+    {
+      id: 11,
       title:
         "Environmental Conservation by Employees",
       objective: "Evaluated impact and created environmental conservation learning material for 5000+ employees.",
@@ -122,18 +136,6 @@ export const state = () => {
         "GNR11.png"
     },
 
-    {
-      id: 11,
-      title:
-        "Creating Skilled Truck Drivers",
-      objective: "Created training material for sustainability professionals and employee onboarding.",
-      url:
-         "https://www.slideshare.net/secret/j1MZ95WamJn2lH",
-      publication: "Tata Motors Limited, Pune, India",
-      Year: "In Process",
-      imageUrl:
-        "TMLA.png"
-    }
   ],
   companies:[{id:1,name:"Room To Read",url:"R2R1.png",duration:"Jan 2020 - Apil 2020"},
   {id:2,name:"Coursera",url:"cour.png", duration:"Nov 2019 - May 2020"},
