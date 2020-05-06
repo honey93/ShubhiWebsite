@@ -2,12 +2,14 @@ export const state = () => {
   return { count: 3,allowedUrls:["how-to-set-up-responsive-ui-search-in-vue-js","vue-blog"],stuff:[
     {
       id: 1,
-      title:"Salesforce Training",
-      objective: "Created Salesforce training using Articulate Storyline 360 and trained employees.",
-      publication: "Room To Read, San Francisco, USA",
-      Year: "2020",
+      title: "Rise 360: Online Education Strategy",
+      objective: "E-learning business development course material for postgraduate students; course earns $X Mn annually.",
+      url:
+        "https://rise.articulate.com/share/0xRmKCfKGTsl85zpIJgHS5Z0w-yG3bfb",
+      publication: "Indian Institute of Management, Ahmedabad, India",
+      Year: "2019",
       imageUrl:
-        "SF1.png"
+        "IIMA1.png"
     },
     
     {
@@ -15,7 +17,7 @@ export const state = () => {
       title: "Broadband Connectivity for Quality Education",
       objective: "Created e-learning policy advocacy content for 50+ Asia Pacific countries.",
       url:
-        "https://www.slideshare.net/secret/9STeW9GnNlmmFg",
+        "https://drive.google.com/drive/folders/1rT5H4y7p7AcQtVePONcVSy_N0a1gSPPX?usp=sharing",
       publication: "United Nations ESCAP, Bangkok, Thailand",
       Year: "2019",
       imageUrl:
@@ -74,7 +76,7 @@ export const state = () => {
 
     {
       id: 7,
-      title:"Physics and Technology for Future Presidents",
+      title:"Articulate Storyline: Physics and Technology for Future Presidents",
       objective: "Taught 200+ undergraduates and created training content using Articulate Storyline.",
       url:
         "https://drive.google.com/drive/folders/1TrusSz07Jn0U1euX9QX_WDaAT-WnIxVX?usp=sharing",
@@ -86,16 +88,13 @@ export const state = () => {
 
     {
       id: 8,
-      title: "Online Education Strategy",
-      objective: "E-learning business development plan and course material for postgraduate students; program earns $X Mn annually.",
-      url:
-        "https://www.slideshare.net/secret/gTd0qFKdBZUhk",
-      publication: "Indian Institute of Management, Ahmedabad, India",
-      Year: "2019",
+      title:"Salesforce Training",
+      objective: "Created Salesforce training using Articulate Storyline 360 and trained employees.",
+      publication: "Room To Read, San Francisco, USA",
+      Year: "2020",
       imageUrl:
-        "IIMA1.png"
+        "SF1.png"
     },
-
     {
       id: 9,
       title:
