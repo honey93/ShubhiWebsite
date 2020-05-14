@@ -1,17 +1,19 @@
 export const state = () => {
   return { count: 3,allowedUrls:["how-to-set-up-responsive-ui-search-in-vue-js","vue-blog"],stuff:[
+
     {
       id: 1,
-      title: "Rise 360: Online Education Strategy",
-      objective: "E-learning business development course material for postgraduate students; course earns $X Mn annually.",
+      title:
+        "Rise 360: Club Enerji Program",
+      objective: "Training for school leadership team and sustainability professionals. Reached 450+ schools.",
       url:
-        "https://rise.articulate.com/share/0xRmKCfKGTsl85zpIJgHS5Z0w-yG3bfb",
-      publication: "Indian Institute of Management, Ahmedabad, India",
-      Year: "2019",
+         "https://rise.articulate.com/share/1zMEPKU_MLgnNKtWMAlU8yZDiAxRQpM0",
+      publication: "Tata Power Limited, Mumbai, India",
+      Year: "2016",
       imageUrl:
-        "IIMA1.png"
+        "CEFinal.png"
     },
-    
+
     {
       id: 2,
       title: "Broadband Connectivity for Quality Education",
@@ -23,9 +25,21 @@ export const state = () => {
       imageUrl:
         "UNZ1.png"
     },
-
+  
     {
       id: 3,
+      title: "Rise 360: Online Education Strategy",
+      objective: "E-learning business development course material for postgraduate students; course earns $2 Mn annually.",
+      url:
+        "https://rise.articulate.com/share/0xRmKCfKGTsl85zpIJgHS5Z0w-yG3bfb",
+      publication: "Indian Institute of Management, Ahmedabad, India",
+      Year: "2019",
+      imageUrl:
+        "IIMA1.png"
+    },
+
+    {
+      id: 4,
       title:"Okhai Center for Empowerment",
       objective: "Created employee onboarding training material for a Handicraft organization and sustainability professionals.",
       url:
@@ -36,18 +50,6 @@ export const state = () => {
         "Okhai1.png"
     },
     
-      {
-        id: 4,
-        title:
-          "Club Enerji Program",
-        objective: "Created training material for environment professionals and school leadership. Reached 450+ schools.",
-        url:
-           "https://www.slideshare.net/secret/HN7IJr5LSjfqyG",
-        publication: "Tata Power Limited, Mumbai, India",
-        Year: "2016",
-        imageUrl:
-          "CE2.png"
-      },
     {
       id: 5,
       title:
