@@ -5,7 +5,7 @@ export const state = () => {
       id: 1,
       title:
         "Club Enerji",
-      objective: "Training for school leadership & sustainability professionals (Rise 360). Reached 450+ schools.",
+      objective: "School leadership & sustainability professionals training (Rise 360). Reached 450+ schools",
       url:
          "https://rise.articulate.com/share/1zMEPKU_MLgnNKtWMAlU8yZDiAxRQpM0",
       publication: "Tata Power Limited, Mumbai, India",
@@ -54,7 +54,7 @@ export const state = () => {
       id: 5,
       title:
         "Cost & Value Innovation",
-      objective:"Created training material for management students and corporate employees to foster innovative thinking.",
+      objective:"Created training material for corporate employees to foster innovative thinking.",
       url:
          "https://www.slideshare.net/secret/r7w3c0luJid0ai",
       publication: "Tata Communication Limited, Mumbai, India",
@@ -66,7 +66,7 @@ export const state = () => {
     {
       id: 6,
       title:"Physics and Technology for Future Presidents",
-      objective: "Taught 200+ undergraduates, conducted skill gap assessment and created training content (Articulate Storyline)",
+      objective: "Taught 200+ undergraduates, conducted assessment & created training (Articulate Storyline)",
       url:
         "https://360.articulate.com/review/content/2784c132-8678-4dcf-b843-3613452240c4/review",
       publication: "University of California, Berkeley, USA",
@@ -78,7 +78,7 @@ export const state = () => {
     {
       id: 7,
       title: " E-Learning in Agriculture ",
-      objective: "Created instruction development framework - potential to impact 100 Mn people",
+      objective: "Created content and business development framework - potential to impact 100 Mn people",
       url:
         "https://www.slideshare.net/secret/EGBdN99RltKLkw",
       publication: "Coursera, Mountain View, USA",
@@ -100,7 +100,7 @@ export const state = () => {
       id: 9,
       title:
        "Social Welfare Society: Empowering Women",
-       objective: "Created enterprise scaling training material for sustainability professionals and 800+ employees. Won Best Case Award from International Management Research Academy, London.",
+       objective: "Training for 800+ employees on on scaling enterprises. Received Best Case Award from International Management Research Academy, London",
        url:
          "https://www.slideshare.net/secret/MxBFJniP26NzmF",
       publication: "Grihini, Tata Motors Limited, Pune, India",
@@ -114,7 +114,7 @@ export const state = () => {
       id: 10,
       title:
         "Creating Skilled Truck Drivers",
-      objective: "Created training material for sustainability professionals and employee onboarding.",
+      objective: "Created training material for social responsbility professional staff onboarding.",
       url:
          "https://www.slideshare.net/secret/j1MZ95WamJn2lH",
       publication: "Tata Motors Limited, Pune, India",
