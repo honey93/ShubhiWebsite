@@ -4,8 +4,8 @@ export const state = () => {
     {
       id: 1,
       title:
-        "Rise 360: Club Enerji Program",
-      objective: "Training for school leadership team and sustainability professionals. Reached 450+ schools.",
+        "Club Enerji",
+      objective: "Training for school leadership & sustainability professionals (Rise 360). Reached 450+ schools.",
       url:
          "https://rise.articulate.com/share/1zMEPKU_MLgnNKtWMAlU8yZDiAxRQpM0",
       publication: "Tata Power Limited, Mumbai, India",
@@ -28,11 +28,11 @@ export const state = () => {
   
     {
       id: 3,
-      title: "Rise 360: Online Education Strategy",
-      objective: "E-learning business development course material for postgraduate students; course earns $2 Mn annually.",
+      title: "Online Education",
+      objective: "Ed-tech business development course for postgraduates (Rise 360); earns ~$2 Mn annually.",
       url:
         "https://rise.articulate.com/share/0xRmKCfKGTsl85zpIJgHS5Z0w-yG3bfb",
-      publication: "Indian Institute of Management, Ahmedabad, India",
+      publication: "Indian Institute of Management Ahd, India",
       Year: "2019",
       imageUrl:
         "IIMA1.png"
@@ -65,8 +65,8 @@ export const state = () => {
 
     {
       id: 6,
-      title:"Articulate Storyline: Physics and Technology for Future Presidents",
-      objective: "Taught 200+ undergraduates and created training content using Articulate Storyline.",
+      title:"Physics and Technology for Future Presidents",
+      objective: "Taught 200+ undergraduates, conducted skill gap assessment and created training content (Articulate Storyline)",
       url:
         "https://360.articulate.com/review/content/2784c132-8678-4dcf-b843-3613452240c4/review",
       publication: "University of California, Berkeley, USA",
@@ -78,7 +78,7 @@ export const state = () => {
     {
       id: 7,
       title: " E-Learning in Agriculture ",
-      objective: "Created instruction development framework with potential to impact 100 Mn people.",
+      objective: "Created instruction development framework - potential to impact 100 Mn people",
       url:
         "https://www.slideshare.net/secret/EGBdN99RltKLkw",
       publication: "Coursera, Mountain View, USA",
@@ -90,7 +90,7 @@ export const state = () => {
     {
       id: 8,
       title:"Salesforce Training",
-      objective: "Created Salesforce training using Articulate Storyline 360 and trained employees.",
+      objective: "Salesforce Admin, created training & trained staff in Europe and Australia (Adobe Creative Cloud)",
       publication: "Room To Read, San Francisco, USA",
       Year: "2020",
       imageUrl:
