@@ -9,7 +9,7 @@ export const state = () => {
       url:
          "https://rise.articulate.com/share/1zMEPKU_MLgnNKtWMAlU8yZDiAxRQpM0",
       publication: "Tata Power Limited, Mumbai, India",
-      Year: "2016",
+      Tools: "Rise 360, Interviews, Quantitative Research",
       imageUrl:
         "CEFinal.png"
     },
@@ -63,9 +63,20 @@ export const state = () => {
         "SM1.png"
     },
 
-
     {
       id: 6,
+      title:"Articulate Storyline: Physics and Technology for Future Presidents",
+      objective: "Taught 200+ undergraduates and created training content using Articulate Storyline.",
+      url:
+        "https://360.articulate.com/review/content/2784c132-8678-4dcf-b843-3613452240c4/review",
+      publication: "University of California, Berkeley, USA",
+      Year: "2018",
+      imageUrl:
+        "QC8.png"
+    },
+
+    {
+      id: 7,
       title: " E-Learning in Agriculture ",
       objective: "Created instruction development framework with potential to impact 100 Mn people.",
       url:
@@ -75,19 +86,7 @@ export const state = () => {
       imageUrl:
         "CS11.png"
     },
-
-    {
-      id: 7,
-      title:"Articulate Storyline: Physics and Technology for Future Presidents",
-      objective: "Taught 200+ undergraduates and created training content using Articulate Storyline.",
-      url:
-        "https://drive.google.com/drive/folders/1TrusSz07Jn0U1euX9QX_WDaAT-WnIxVX?usp=sharing",
-      publication: "University of California, Berkeley, USA",
-      Year: "2018",
-      imageUrl:
-        "QC2.png"
-    },
-
+    
     {
       id: 8,
       title:"Salesforce Training",
