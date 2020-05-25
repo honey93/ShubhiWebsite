@@ -11,7 +11,7 @@ export const state = () => {
       publication: "Tata Power Limited, Mumbai, India",
       Tools: "Rise 360, Interviews, Quantitative Research",
       imageUrl:
-        "CEFinal.png"
+        "CE4.png"
     },
 
     {
@@ -25,31 +25,32 @@ export const state = () => {
       imageUrl:
         "UNZ1.png"
     },
-  
-    {
-      id: 3,
-      title: "Online Education",
-      objective: "Ed-tech business development course for postgraduates (Rise 360); earns ~$2 Mn annually.",
-      url:
-        "https://rise.articulate.com/share/0xRmKCfKGTsl85zpIJgHS5Z0w-yG3bfb",
-      publication: "Indian Institute of Management Ahd, India",
-      Year: "2019",
-      imageUrl:
-        "IIMA1.png"
-    },
 
     {
-      id: 4,
+      id: 3,
       title:"Okhai Center for Empowerment",
-      objective: "Created employee onboarding training material for a Handicraft organization and sustainability professionals.",
+      objective: "Co-authored case study and storyboard for Handicraft and sustainability professionals (Captivate)",
       url:
-        "https://www.slideshare.net/secret/hk4W0qSVr9L1pc",
+        "https://drive.google.com/drive/folders/19c8QXekIMiYDUY6QORaVsiCIL-pZHHo9?usp=sharing",
       publication: "Okhai Enterprise, Gujarat, India",
       Year: "2017",
       imageUrl:
-        "Okhai1.png"
+        "Okhai4.png"
     },
     
+    {
+      id: 4,
+      title:
+        "Greenolution: Environmental Conservation",
+      objective: "Evaluated impact and created environmental conservation learning material for 5000+ employees.",
+      url:
+         "https://www.slideshare.net/secret/GlS1FmTSn36OOE",
+      publication: "Tata Power Limited, Mumbai, India",
+      Year: "2016",
+      imageUrl:
+        "GNR11.png"
+    },
+
     {
       id: 5,
       title:
@@ -125,16 +126,16 @@ export const state = () => {
 
     {
       id: 11,
-      title:
-        "Environmental Conservation by Employees",
-      objective: "Evaluated impact and created environmental conservation learning material for 5000+ employees.",
+      title: "Online Education",
+      objective: "Ed-tech business development course for postgraduates (Rise 360); earns ~$2 Mn annually.",
       url:
-         "https://www.slideshare.net/secret/GlS1FmTSn36OOE",
-      publication: "Tata Power Limited, Mumbai, India",
-      Year: "2016",
+        "https://rise.articulate.com/share/0xRmKCfKGTsl85zpIJgHS5Z0w-yG3bfb",
+      publication: "Indian Institute of Management Ahd, India",
+      Year: "2019",
       imageUrl:
-        "GNR11.png"
+        "IIMA1.png"
     },
+
 
   ],
   companies:[{id:1,name:"Room To Read",url:"R2R1.png",duration:"Jan 2020 - Apil 2020"},
