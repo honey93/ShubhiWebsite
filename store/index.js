@@ -28,7 +28,7 @@ export const state = () => {
 
     {
       id: 3,
-      title:"Okhai Center for Empowerment",
+      title:"Refashoning Lives of Rural Women",
       objective: "Co-authored case study and storyboard for Handicraft and sustainability professionals (Captivate)",
       url:
         "https://drive.google.com/drive/folders/19c8QXekIMiYDUY6QORaVsiCIL-pZHHo9?usp=sharing",
@@ -54,14 +54,14 @@ export const state = () => {
     {
       id: 5,
       title:
-        "Cost & Value Innovation",
-      objective:"Created training material for corporate employees to foster innovative thinking.",
+        "SauMill: Cost & Value Innovation",
+      objective:"Created case study and video animation to foster innovative thinking (Vyond)",
       url:
          "https://www.slideshare.net/secret/r7w3c0luJid0ai",
       publication: "Tata Communication Limited, Mumbai, India",
       Year: "2017",
       imageUrl:
-        "SM1.png"
+        "SauMill 1.png"
     },
 
     {
