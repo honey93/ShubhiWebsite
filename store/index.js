@@ -44,11 +44,11 @@ export const state = () => {
         "Greenolution: Environmental Conservation",
       objective: "Evaluated impact and created environmental conservation learning material for 5000+ employees.",
       url:
-         "https://www.slideshare.net/secret/GlS1FmTSn36OOE",
+         "https://drive.google.com/open?id=1XQHOpl8d0zzg3UTDVbImHiCivQtXcfPO",
       publication: "Tata Power Limited, Mumbai, India",
       Year: "2016",
       imageUrl:
-        "GNR11.png"
+        "GRR13.png"
     },
 
     {
@@ -57,7 +57,7 @@ export const state = () => {
         "SauMill: Cost & Value Innovation",
       objective:"Created case study and video animation to foster innovative thinking (Vyond)",
       url:
-         "https://www.slideshare.net/secret/r7w3c0luJid0ai",
+         "https://drive.google.com/drive/folders/1w1io2OCeFyInFaLThWTnV5bnSgiUP5Jy?usp=sharing",
       publication: "Tata Communication Limited, Mumbai, India",
       Year: "2017",
       imageUrl:
@@ -107,29 +107,29 @@ export const state = () => {
       publication: "Grihini, Tata Motors Limited, Pune, India",
       Year: "2015",
       imageUrl:
-        "GH1.png" 
+        "GH4.png" 
       },
 
   
     {
       id: 10,
       title:
-        "Creating Skilled Truck Drivers",
-      objective: "Created training material for social responsbility professional staff onboarding.",
+        "Skilling Truck Drivers",
+      objective: "Created training material and teaching notes for employee training",
       url:
-         "https://www.slideshare.net/secret/j1MZ95WamJn2lH",
+         "https://drive.google.com/drive/folders/1cy2P9xkNe3IS7Ln6RjR0NmT46i24oOAP?usp=sharing",
       publication: "Tata Motors Limited, Pune, India",
       Year: "In Process",
       imageUrl:
-        "TMLA.png"
+        "TMLA1.png"
     },
 
     {
       id: 11,
-      title: "Online Education",
+      title: "Online Education Strategy",
       objective: "Ed-tech business development course for postgraduates (Rise 360); earns ~$2 Mn annually.",
       url:
-        "https://rise.articulate.com/share/0xRmKCfKGTsl85zpIJgHS5Z0w-yG3bfb",
+        "https://drive.google.com/drive/folders/1-COJKyPPwn4lvu5dnr-so1HZt0LEt7TT?usp=sharing",
       publication: "Indian Institute of Management Ahd, India",
       Year: "2019",
       imageUrl:
