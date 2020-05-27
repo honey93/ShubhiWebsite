@@ -3,6 +3,18 @@ export const state = () => {
 
     {
       id: 1,
+      title:"Physics and Technology for Future Presidents",
+      objective: "Taught 200+ undergraduates, conducted assessment & created training (Articulate Storyline)",
+      url:
+        "https://360.articulate.com/review/content/2784c132-8678-4dcf-b843-3613452240c4/review",
+      publication: "University of California, Berkeley, USA",
+      Year: "2018",
+      imageUrl:
+        "QC9.png"
+    },
+
+    {
+      id: 2,
       title:
         "Club Enerji",
       objective: "School leadership & sustainability professionals training (Rise 360). Reached 450+ schools",
@@ -11,20 +23,9 @@ export const state = () => {
       publication: "Tata Power Limited, Mumbai, India",
       Tools: "Rise 360, Interviews, Quantitative Research",
       imageUrl:
-        "CE4.png"
+        "CE6.png"
     },
 
-    {
-      id: 2,
-      title: "Broadband Connectivity for Quality Education",
-      objective: "Created e-learning policy advocacy content for 50+ Asia Pacific countries.",
-      url:
-        "https://drive.google.com/drive/folders/1rT5H4y7p7AcQtVePONcVSy_N0a1gSPPX?usp=sharing",
-      publication: "United Nations ESCAP, Bangkok, Thailand",
-      Year: "2019",
-      imageUrl:
-        "UNZ1.png"
-    },
 
     {
       id: 3,
@@ -35,7 +36,7 @@ export const state = () => {
       publication: "Okhai Enterprise, Gujarat, India",
       Year: "2017",
       imageUrl:
-        "Okhai4.png"
+        "Okhai6.png"
     },
     
     {
@@ -66,18 +67,6 @@ export const state = () => {
 
     {
       id: 6,
-      title:"Physics and Technology for Future Presidents",
-      objective: "Taught 200+ undergraduates, conducted assessment & created training (Articulate Storyline)",
-      url:
-        "https://360.articulate.com/review/content/2784c132-8678-4dcf-b843-3613452240c4/review",
-      publication: "University of California, Berkeley, USA",
-      Year: "2018",
-      imageUrl:
-        "QC8.png"
-    },
-
-    {
-      id: 7,
       title: " E-Learning in Agriculture ",
       objective: "Created content and business development framework - potential to impact 100 Mn people",
       url:
@@ -85,7 +74,19 @@ export const state = () => {
       publication: "Coursera, Mountain View, USA",
       Year: "2019",
       imageUrl:
-        "CS11.png"
+        "CS13.png"
+    },
+   
+    {
+      id: 7,
+      title: "Broadband Connectivity for Quality Education",
+      objective: "Created e-learning policy advocacy content for 50+ Asia Pacific countries.",
+      url:
+        "https://drive.google.com/drive/folders/1rT5H4y7p7AcQtVePONcVSy_N0a1gSPPX?usp=sharing",
+      publication: "United Nations ESCAP, Bangkok, Thailand",
+      Year: "2019",
+      imageUrl:
+        "UN3.png"
     },
     
     {
@@ -95,7 +96,7 @@ export const state = () => {
       publication: "Room To Read, San Francisco, USA",
       Year: "2020",
       imageUrl:
-        "SF1.png"
+        "SF3.png"
     },
     {
       id: 9,
@@ -133,7 +134,7 @@ export const state = () => {
       publication: "Indian Institute of Management Ahd, India",
       Year: "2019",
       imageUrl:
-        "IIMA1.png"
+        "IIMA2.png"
     },
 
 
