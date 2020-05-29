@@ -6,7 +6,7 @@ export const state = () => {
       title:"Physics and Technology for Future Presidents",
       objective: "Taught 200+ undergraduates, conducted assessment & created training (Articulate Storyline)",
       url:
-        "https://360.articulate.com/review/content/2784c132-8678-4dcf-b843-3613452240c4/review",
+        "https://360.articulate.com/review/content/f7dd7392-32ae-4b7c-b80f-dfc0b107ca0e/review",
       publication: "University of California, Berkeley, USA",
       Year: "2018",
       imageUrl:
@@ -17,13 +17,13 @@ export const state = () => {
       id: 2,
       title:
         "Club Enerji",
-      objective: "School leadership & sustainability professionals training (Rise 360). Reached 450+ schools",
+      objective: "School leadership & sustainability professionals training. Reached 450+ schools (Rise 360)",
       url:
          "https://rise.articulate.com/share/1zMEPKU_MLgnNKtWMAlU8yZDiAxRQpM0",
       publication: "Tata Power Limited, Mumbai, India",
       Tools: "Rise 360, Interviews, Quantitative Research",
       imageUrl:
-        "CE6.png"
+        "CE7.png"
     },
 
 
@@ -43,7 +43,7 @@ export const state = () => {
       id: 4,
       title:
         "Greenolution: Environmental Conservation",
-      objective: "Evaluated impact and created environmental conservation learning material for 5000+ employees.",
+      objective: "Evaluated impact and created environmental conservation learning material for 5000+ employees (Lectora)",
       url:
          "https://drive.google.com/open?id=1XQHOpl8d0zzg3UTDVbImHiCivQtXcfPO",
       publication: "Tata Power Limited, Mumbai, India",
@@ -102,7 +102,7 @@ export const state = () => {
       id: 9,
       title:
        "Social Welfare Society: Empowering Women",
-       objective: "Training for 800+ employees on on scaling enterprises. Received Best Case Award from International Management Research Academy, London",
+       objective: "Training for 800+ employees on on scaling enterprises.Received Best Case Award from International Management Research Academy, London (Captivate) ",
        url:
          "https://www.slideshare.net/secret/MxBFJniP26NzmF",
       publication: "Grihini, Tata Motors Limited, Pune, India",
