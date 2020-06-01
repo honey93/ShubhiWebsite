@@ -16,16 +16,15 @@ export const state = () => {
     {
       id: 2,
       title:
-        "Club Enerji",
-      objective: "School leadership & sustainability professionals training. Reached 450+ schools (Rise 360)",
-      url:
-         "https://rise.articulate.com/share/1zMEPKU_MLgnNKtWMAlU8yZDiAxRQpM0",
-      publication: "Tata Power Limited, Mumbai, India",
-      Tools: "Rise 360, Interviews, Quantitative Research",
+       "Women Empowerment",
+       objective: "Microlearning Animation video (Biteable). Grihini case received Best Case Award from International Management Research Academy, London ",
+       url:
+         "https://biteable.com/watch/understanding-boundary-through-animation-micro-l-2596181",
+      publication: "Grihini, Tata Motors Limited, Pune, India",
+      Year: "2015",
       imageUrl:
-        "CE7.png"
-    },
-
+        "G7.png" 
+      },
 
     {
       id: 3,
@@ -54,32 +53,45 @@ export const state = () => {
 
     {
       id: 5,
-      title:
-        "SauMill: Cost & Value Innovation",
-      objective:"Created case study and video animation to foster innovative thinking (Vyond)",
+      title: "Online Education Strategy",
+      objective: "Ed-tech business development course for postgraduates (Rise 360); earns ~$2 Mn annually.",
       url:
-         "https://drive.google.com/drive/folders/1w1io2OCeFyInFaLThWTnV5bnSgiUP5Jy?usp=sharing",
-      publication: "Tata Communication Limited, Mumbai, India",
-      Year: "2017",
+        "https://drive.google.com/drive/folders/1-COJKyPPwn4lvu5dnr-so1HZt0LEt7TT?usp=sharing",
+      publication: "Indian Institute of Management Ahd, India",
+      Year: "2019",
       imageUrl:
-        "SauMill 1.png"
+        "IIMA2.png"
     },
+
 
     {
       id: 6,
-      title:
-       "Delineating Boundary for Empowering Women",
-       objective: "Microlearning Animation video (Biteable). Grihini case received Best Case Award from International Management Research Academy, London ",
-       url:
-         "https://biteable.com/watch/understanding-boundary-through-animation-micro-l-2596181",
-      publication: "Grihini, Tata Motors Limited, Pune, India",
-      Year: "2015",
+      title:"Salesforce Training",
+      objective: "Created animated and blended learning training; trained staff in Europe and Australia (Biteable, Adobe Creative Cloud)",
+      url:
+      "https://biteable.com/watch/pizza-picklist-and-salesforce-2597403",
+      publication: "Room To Read, San Francisco, USA",
+      Year: "2020",
       imageUrl:
-        "G7.png" 
-      },
+        "SF6.png"
+    },
 
     {
       id: 7,
+      title:
+        "Club Enerji",
+      objective: "School leadership & sustainability professionals training. Reached 450+ schools (Rise 360)",
+      url:
+         "https://rise.articulate.com/share/1zMEPKU_MLgnNKtWMAlU8yZDiAxRQpM0",
+      publication: "Tata Power Limited, Mumbai, India",
+      Tools: "Rise 360, Interviews, Quantitative Research",
+      imageUrl:
+        "CE7.png"
+    },
+
+
+    {
+      id: 8,
       title: " E-Learning in Agriculture ",
       objective: "Created content and business development framework - potential to impact 100 Mn people",
       url:
@@ -89,31 +101,9 @@ export const state = () => {
       imageUrl:
         "CS13.png"
     },
-   
-    {
-      id: 8,
-      title: "Broadband Connectivity for Quality Education",
-      objective: "Created e-learning policy advocacy content for 50+ Asia Pacific countries.",
-      url:
-        "https://drive.google.com/drive/folders/1rT5H4y7p7AcQtVePONcVSy_N0a1gSPPX?usp=sharing",
-      publication: "United Nations ESCAP, Bangkok, Thailand",
-      Year: "2019",
-      imageUrl:
-        "UN3.png"
-    },
-    
+
     {
       id: 9,
-      title:"Salesforce Training",
-      objective: "Salesforce Admin, created training & trained staff in Europe and Australia (Adobe Creative Cloud)",
-      publication: "Room To Read, San Francisco, USA",
-      Year: "2020",
-      imageUrl:
-        "SF3.png"
-    },
-  
-    {
-      id: 10,
       title:
         "Skilling Truck Drivers",
       objective: "Created training material and teaching notes for employee training",
@@ -126,17 +116,29 @@ export const state = () => {
     },
 
     {
-      id: 11,
-      title: "Online Education Strategy",
-      objective: "Ed-tech business development course for postgraduates (Rise 360); earns ~$2 Mn annually.",
+      id: 10,
+      title:
+        "SauMill: Cost & Value Innovation",
+      objective:"Created case study and video animation to foster innovative thinking (Vyond)",
       url:
-        "https://drive.google.com/drive/folders/1-COJKyPPwn4lvu5dnr-so1HZt0LEt7TT?usp=sharing",
-      publication: "Indian Institute of Management Ahd, India",
-      Year: "2019",
+         "https://drive.google.com/drive/folders/1w1io2OCeFyInFaLThWTnV5bnSgiUP5Jy?usp=sharing",
+      publication: "Tata Communication Limited, Mumbai, India",
+      Year: "2017",
       imageUrl:
-        "IIMA2.png"
+        "SauMill 1.png"
     },
 
+    {
+      id: 11,
+      title: "Broadband Connectivity for Quality Education",
+      objective: "Created e-learning policy advocacy content for 50+ Asia Pacific countries.",
+      url:
+        "https://drive.google.com/drive/folders/1rT5H4y7p7AcQtVePONcVSy_N0a1gSPPX?usp=sharing",
+      publication: "United Nations ESCAP, Bangkok, Thailand",
+      Year: "2019",
+      imageUrl:
+        "UN3.png"
+    },
 
   ],
   companies:[{id:1,name:"Room To Read",url:"R2R1.png",duration:"Jan 2020 - Apil 2020"},
