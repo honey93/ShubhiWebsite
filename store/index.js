@@ -67,6 +67,19 @@ export const state = () => {
 
     {
       id: 6,
+      title:
+       "Delineating Boundary for Empowering Women",
+       objective: "Microlearning Animation video (Biteable). Grihini case received Best Case Award from International Management Research Academy, London ",
+       url:
+         "https://biteable.com/watch/understanding-boundary-through-animation-micro-l-2596181",
+      publication: "Grihini, Tata Motors Limited, Pune, India",
+      Year: "2015",
+      imageUrl:
+        "G7.png" 
+      },
+
+    {
+      id: 7,
       title: " E-Learning in Agriculture ",
       objective: "Created content and business development framework - potential to impact 100 Mn people",
       url:
@@ -78,7 +91,7 @@ export const state = () => {
     },
    
     {
-      id: 7,
+      id: 8,
       title: "Broadband Connectivity for Quality Education",
       objective: "Created e-learning policy advocacy content for 50+ Asia Pacific countries.",
       url:
@@ -90,7 +103,7 @@ export const state = () => {
     },
     
     {
-      id: 8,
+      id: 9,
       title:"Salesforce Training",
       objective: "Salesforce Admin, created training & trained staff in Europe and Australia (Adobe Creative Cloud)",
       publication: "Room To Read, San Francisco, USA",
@@ -98,19 +111,6 @@ export const state = () => {
       imageUrl:
         "SF3.png"
     },
-    {
-      id: 9,
-      title:
-       "Social Welfare Society: Empowering Women",
-       objective: "Training for 800+ employees on on scaling enterprises.Received Best Case Award from International Management Research Academy, London (Captivate) ",
-       url:
-         "https://www.slideshare.net/secret/MxBFJniP26NzmF",
-      publication: "Grihini, Tata Motors Limited, Pune, India",
-      Year: "2015",
-      imageUrl:
-        "GH4.png" 
-      },
-
   
     {
       id: 10,
