@@ -4,7 +4,7 @@ export const state = () => {
     {
       id: 1,
       title:"Physics and Technology for Future Presidents",
-      objective: "Taught 200+ undergraduates, conducted assessment & created training (Articulate Storyline)",
+      objective: "Taught 200+ undergraduates, conducted assessment & created Articulate Storyline course",
       url:
         "https://360.articulate.com/review/content/f7dd7392-32ae-4b7c-b80f-dfc0b107ca0e/review",
       publication: "University of California, Berkeley, USA",
@@ -53,8 +53,20 @@ export const state = () => {
 
     {
       id: 5,
-      title: "Online Education Strategy",
-      objective: "Ed-tech business development course for postgraduates (Rise 360); earns ~$2 Mn annually.",
+      title:"Salesforce Training",
+      objective: "Created animated and blended learning training; trained staff in Europe and Australia (Biteable, Adobe Creative Cloud)",
+      url:
+      "https://biteable.com/watch/pizza-picklist-and-salesforce-2597403",
+      publication: "Room To Read, San Francisco, USA",
+      Year: "2020",
+      imageUrl:
+        "SF3.png"
+    },
+
+    {
+      id: 6,
+      title: "Online Education Business Development",
+      objective: "Ed-tech case study for postgraduates with teaching notes; program earns ~$2 Mn annually.",
       url:
         "https://drive.google.com/drive/folders/1-COJKyPPwn4lvu5dnr-so1HZt0LEt7TT?usp=sharing",
       publication: "Indian Institute of Management Ahd, India",
@@ -63,27 +75,14 @@ export const state = () => {
         "IIMA2.png"
     },
 
-
-    {
-      id: 6,
-      title:"Salesforce Training",
-      objective: "Created animated and blended learning training; trained staff in Europe and Australia (Biteable, Adobe Creative Cloud)",
-      url:
-      "https://biteable.com/watch/pizza-picklist-and-salesforce-2597403",
-      publication: "Room To Read, San Francisco, USA",
-      Year: "2020",
-      imageUrl:
-        "SF6.png"
-    },
-
     {
       id: 7,
       title:
-        "Club Enerji",
-      objective: "School leadership & sustainability professionals training. Reached 450+ schools (Rise 360)",
+        "Club Enerji Sustainability Education",
+      objective: "Rise 360 course for sustainability professionals & school leaders. Reached 450+ schools",
       url:
          "https://rise.articulate.com/share/1zMEPKU_MLgnNKtWMAlU8yZDiAxRQpM0",
-      publication: "Tata Power Limited, Mumbai, India",
+      publication: "Tata Power, Mumbai, India",
       Tools: "Rise 360, Interviews, Quantitative Research",
       imageUrl:
         "CE7.png"
