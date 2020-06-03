@@ -15,16 +15,16 @@ export const state = () => {
 
     {
       id: 2,
-      title:
-       "Women Empowerment",
-       objective: "Microlearning Animation video (Biteable). Grihini case received Best Case Award from International Management Research Academy, London ",
-       url:
-         "https://biteable.com/watch/understanding-boundary-through-animation-micro-l-2596181",
-      publication: "Grihini, Tata Motors Limited, Pune, India",
-      Year: "2015",
+      title: "Broadband Connectivity for Quality Education",
+      objective: "Created e-learning policy advocacy content for 50+ Asia Pacific countries.",
+      url:
+        "https://drive.google.com/drive/folders/1rT5H4y7p7AcQtVePONcVSy_N0a1gSPPX?usp=sharing",
+      publication: "United Nations ESCAP, Bangkok, Thailand",
+      Year: "2019",
       imageUrl:
-        "G7.png" 
-      },
+        "UN3.png"
+    },
+
 
     {
       id: 3,
@@ -63,17 +63,19 @@ export const state = () => {
         "SF3.png"
     },
 
+    
     {
       id: 6,
-      title: "Online Education Business Development",
-      objective: "Ed-tech case study for postgraduates with teaching notes; program earns ~$2 Mn annually.",
-      url:
-        "https://drive.google.com/drive/folders/1-COJKyPPwn4lvu5dnr-so1HZt0LEt7TT?usp=sharing",
-      publication: "Indian Institute of Management Ahd, India",
-      Year: "2019",
+      title:
+       "Women Empowerment",
+       objective: "Microlearning Animation video (Biteable). Grihini case received Best Case Award from International Management Research Academy, London ",
+       url:
+         "https://biteable.com/watch/understanding-boundary-through-animation-micro-l-2596181",
+      publication: "Grihini, Tata Motors Limited, Pune, India",
+      Year: "2015",
       imageUrl:
-        "IIMA2.png"
-    },
+        "G7.png" 
+      },   
 
     {
       id: 7,
@@ -124,21 +126,20 @@ export const state = () => {
       publication: "Tata Communication Limited, Mumbai, India",
       Year: "2017",
       imageUrl:
-        "SauMill 1.png"
+        "SM5.png"
     },
 
     {
       id: 11,
-      title: "Broadband Connectivity for Quality Education",
-      objective: "Created e-learning policy advocacy content for 50+ Asia Pacific countries.",
+      title: "Online Education Business Development",
+      objective: "Ed-tech case study for postgraduates with teaching notes; program earns ~$2 Mn annually.",
       url:
-        "https://drive.google.com/drive/folders/1rT5H4y7p7AcQtVePONcVSy_N0a1gSPPX?usp=sharing",
-      publication: "United Nations ESCAP, Bangkok, Thailand",
+        "https://drive.google.com/drive/folders/1-COJKyPPwn4lvu5dnr-so1HZt0LEt7TT?usp=sharing",
+      publication: "Indian Institute of Management Ahd, India",
       Year: "2019",
       imageUrl:
-        "UN3.png"
+        "IIMA2.png"
     },
-
   ],
   companies:[{id:1,name:"Room To Read",url:"R2R1.png",duration:"Jan 2020 - Apil 2020"},
   {id:2,name:"Coursera",url:"cour.png", duration:"Nov 2019 - May 2020"},
