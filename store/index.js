@@ -6,7 +6,7 @@ export const state = () => {
       title:"Physics and Technology for Future Presidents",
       objective: "Taught 200+ undergraduates, conducted assessment & created Articulate Storyline course",
       url:
-        "https://360.articulate.com/review/content/f7dd7392-32ae-4b7c-b80f-dfc0b107ca0e/review",
+        "https://360.articulate.com/review/content/1ec8af70-1b96-4c8f-b115-3bee5284e903/review",
       publication: "University of California, Berkeley, USA",
       Year: "2018",
       imageUrl:
