@@ -4,7 +4,7 @@ export const state = () => {
     {
       id: 1,
       title:"Physics and Technology for Future Presidents",
-      objective: "Taught 200+ undergraduates, conducted assessment & created Articulate Storyline course",
+      objective: "Created course, conducted assessment, taught 200+ undergraduates (Canvas LMS, Articulate Storyline)",
       url:
         "https://360.articulate.com/review/content/1ec8af70-1b96-4c8f-b115-3bee5284e903/review",
       publication: "University of California, Berkeley, USA",
@@ -29,7 +29,7 @@ export const state = () => {
     {
       id: 3,
       title:"Refashoning Lives of Rural Women",
-      objective: "Co-authored case study and storyboard for Handicraft and sustainability professionals (Captivate)",
+      objective: "Co-authored case study and storyboard for Handicraft industry professionals (Captivate)",
       url:
         "https://drive.google.com/drive/folders/19c8QXekIMiYDUY6QORaVsiCIL-pZHHo9?usp=sharing",
       publication: "Okhai Enterprise, Gujarat, India",
@@ -41,10 +41,10 @@ export const state = () => {
     {
       id: 4,
       title:
-        "Greenolution: Environmental Conservation",
-      objective: "Evaluated impact and created environmental conservation learning material for 5000+ employees (Lectora)",
+        "Greenolution: Environmental Conservation Program",
+      objective: "Created interaction and case study on workplace sustainability (Storyline)",
       url:
-         "https://drive.google.com/open?id=1XQHOpl8d0zzg3UTDVbImHiCivQtXcfPO",
+         "https://360.articulate.com/review/content/04a96cae-cfa1-4480-ad76-84d2a53636b0/review",
       publication: "Tata Power Limited, Mumbai, India",
       Year: "2016",
       imageUrl:
@@ -54,7 +54,7 @@ export const state = () => {
     {
       id: 5,
       title:"Salesforce Training",
-      objective: "Created animated and blended learning training; trained staff in Europe and Australia (Biteable, Adobe Creative Cloud)",
+      objective: "Created blended training; trained staff in Europe and Australia (Adobe Creative Cloud)",
       url:
       "https://biteable.com/watch/pizza-picklist-and-salesforce-2597403",
       publication: "Room To Read, San Francisco, USA",
@@ -94,7 +94,7 @@ export const state = () => {
     {
       id: 8,
       title: " E-Learning in Agriculture ",
-      objective: "Created content and business development framework - potential to impact 100 Mn people",
+      objective: "Created content and business development framework for e-learning programs- potential to impact 100 Mn people",
       url:
         "https://www.slideshare.net/secret/EGBdN99RltKLkw",
       publication: "Coursera, Mountain View, USA",
@@ -107,7 +107,7 @@ export const state = () => {
       id: 9,
       title:
         "Skilling Truck Drivers",
-      objective: "Created training material and teaching notes for employee training",
+      objective: "Created training material and teaching notes for employee training (Vyond)",
       url:
          "https://drive.google.com/drive/folders/1cy2P9xkNe3IS7Ln6RjR0NmT46i24oOAP?usp=sharing",
       publication: "Tata Motors Limited, Pune, India",
@@ -120,9 +120,9 @@ export const state = () => {
       id: 10,
       title:
         "SauMill: Cost & Value Innovation",
-      objective:"Created case study and video animation to foster innovative thinking (Vyond)",
+      objective:"Created case study and interactions on innovation and design thinking (Storyline)",
       url:
-         "https://drive.google.com/drive/folders/1w1io2OCeFyInFaLThWTnV5bnSgiUP5Jy?usp=sharing",
+         "https://360.articulate.com/review/content/d1e4b017-6cb2-44e8-8b5b-5ae49a4ec61a/review",
       publication: "Tata Communication Limited, Mumbai, India",
       Year: "2017",
       imageUrl:
