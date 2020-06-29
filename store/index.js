@@ -4,9 +4,9 @@ export const state = () => {
     {
       id: 1,
       title:"Physics and Technology for Future Presidents",
-      objective: "Created course, conducted assessment, taught 200+ undergraduates (Canvas LMS, Articulate Storyline)",
+      objective: "Created course prototype, interactive quiz, taught 200+ students (Canvas LMS, Storyline)",
       url:
-        "https://360.articulate.com/review/content/1ec8af70-1b96-4c8f-b115-3bee5284e903/review",
+        "https://360.articulate.com/review/content/15915d84-7b73-4221-b60e-c07ca206bc89/review",
       publication: "University of California, Berkeley, USA",
       Year: "2018",
       imageUrl:
@@ -28,8 +28,8 @@ export const state = () => {
 
     {
       id: 3,
-      title:"Refashoning Lives of Rural Women",
-      objective: "Co-authored case study and storyboard for Handicraft industry professionals (Captivate)",
+      title:"Refashoning Lives of Rural Women Artisans",
+      objective: "Co-authored case study with Branched Scenario's for Handicraft industry professionals",
       url:
         "https://drive.google.com/drive/folders/19c8QXekIMiYDUY6QORaVsiCIL-pZHHo9?usp=sharing",
       publication: "Okhai Enterprise, Gujarat, India",
@@ -41,7 +41,7 @@ export const state = () => {
     {
       id: 4,
       title:
-        "Greenolution: Environmental Conservation Program",
+        "Greenolution: Environmental Conservation",
       objective: "Created interaction and case study on workplace sustainability (Storyline)",
       url:
          "https://360.articulate.com/review/content/04a96cae-cfa1-4480-ad76-84d2a53636b0/review",
@@ -53,32 +53,6 @@ export const state = () => {
 
     {
       id: 5,
-      title:"Salesforce Training",
-      objective: "Created blended training; trained staff in Europe and Australia (Adobe Creative Cloud)",
-      url:
-      "https://biteable.com/watch/pizza-picklist-and-salesforce-2597403",
-      publication: "Room To Read, San Francisco, USA",
-      Year: "2020",
-      imageUrl:
-        "SF3.png"
-    },
-
-    
-    {
-      id: 6,
-      title:
-       "Women Empowerment",
-       objective: "Microlearning Animation video (Biteable). Grihini case received Best Case Award from International Management Research Academy, London ",
-       url:
-         "https://biteable.com/watch/understanding-boundary-through-animation-micro-l-2596181",
-      publication: "Grihini, Tata Motors Limited, Pune, India",
-      Year: "2015",
-      imageUrl:
-        "G7.png" 
-      },   
-
-    {
-      id: 7,
       title:
         "Club Enerji Sustainability Education",
       objective: "Rise 360 course for sustainability professionals & school leaders. Reached 450+ schools",
@@ -89,12 +63,37 @@ export const state = () => {
       imageUrl:
         "CE7.png"
     },
+    
+    {
+      id: 6,
+      title:
+       "Life Skills for Women Leaders",
+       objective: "Microlearning Animation (Biteable). Case received Best Case Award from International Management Research Academy, London ",
+       url:
+         "https://biteable.com/watch/understanding-boundary-through-animation-micro-l-2596181",
+      publication: "Grihini, Tata Motors Limited, Pune, India",
+      Year: "2015",
+      imageUrl:
+        "G7.png" 
+      },   
+
+      {
+        id: 7,
+        title:"Salesforce Training",
+        objective: "Created branched scenario's; trained staff in Europe, Asia, and Australia (Adobe Captivate)",
+        url:
+        "https://360.articulate.com/review/content/3c822b98-f055-42ae-b127-5abad421bef8/review",
+        publication: "Room To Read, San Francisco, USA",
+        Year: "2020",
+        imageUrl:
+          "SF3.png"
+      },
 
 
     {
       id: 8,
       title: " E-Learning in Agriculture ",
-      objective: "Created content and business development framework for e-learning programs- potential to impact 100 Mn people",
+      objective: "Created content and business development framework - to reach a new market of ~100 Mn people",
       url:
         "https://www.slideshare.net/secret/EGBdN99RltKLkw",
       publication: "Coursera, Mountain View, USA",
@@ -120,7 +119,7 @@ export const state = () => {
       id: 10,
       title:
         "SauMill: Cost & Value Innovation",
-      objective:"Created case study and interactions on innovation and design thinking (Storyline)",
+      objective:"Created case study and interactions on innovation (Storyline)",
       url:
          "https://360.articulate.com/review/content/d1e4b017-6cb2-44e8-8b5b-5ae49a4ec61a/review",
       publication: "Tata Communication Limited, Mumbai, India",
@@ -140,6 +139,7 @@ export const state = () => {
       imageUrl:
         "IIMA2.png"
     },
+
   ],
   companies:[{id:1,name:"Room To Read",url:"R2R1.png",duration:"Jan 2020 - Apil 2020"},
   {id:2,name:"Coursera",url:"cour.png", duration:"Nov 2019 - May 2020"},
