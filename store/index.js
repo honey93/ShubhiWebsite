@@ -4,7 +4,7 @@ export const state = () => {
     {
       id: 1,
       title:"Physics and Technology for Future Presidents",
-      objective: "Course prototype, taught 200+ students, created interactive quiz and games (Canvas LMS, Storyline)",
+      objective: "Design, develop, deliver interactive Physics training (Canvas LMS, Storyline)",
       url:
         "https://360.articulate.com/review/content/15915d84-7b73-4221-b60e-c07ca206bc89/review",
       publication: "University of California, Berkeley, USA",
@@ -15,6 +15,19 @@ export const state = () => {
 
     {
       id: 2,
+      title:
+       "Life Skills for Women Leaders",
+       objective: "Microlearning animation (Biteable). Case received Best Case Award from International Management Research Academy, London ",
+       url:
+         "https://biteable.com/watch/understanding-boundary-through-animation-micro-l-2596181",
+      publication: "Grihini, Tata Motors Limited, Pune, India",
+      Year: "2015",
+      imageUrl:
+        "G7.png" 
+      },   
+
+    {
+      id: 3,
       title: "Inclusive Broadband for Quality Education",
       objective: "E-learning policy content for 50+ Asia Pacific countries.",
       url:
@@ -25,9 +38,8 @@ export const state = () => {
         "UN9.png"
     },
 
-
     {
-      id: 3,
+      id: 4,
       title:"Refashoning Lives of Rural Women Artisans",
       objective: "Case study with branched scenario's for handicraft industry professionals",
       url:
@@ -39,7 +51,7 @@ export const state = () => {
     },
     
     {
-      id: 4,
+      id: 5,
       title:
         "Greenolution: Environmental Conservation",
       objective: "Case study and layers interaction for sustainability professionals (Articulate)",
@@ -52,7 +64,19 @@ export const state = () => {
     },
 
     {
-      id: 5,
+      id: 6,
+      title:"Micro-e-learning AI Software Simulation",
+      objective: "Design, develop demonstration, interactive practice steps, and test (Articulate Storyline)",
+      url:
+        "https://360.articulate.com/review/content/65ded30d-dd38-406c-99c9-c91fa4518485/review",
+      publication: "Techstars Startup, San Francisco",
+      Year: "2020",
+      imageUrl:
+        "IL1.png"
+    },
+
+    {
+      id: 7,
       title:
         "Club Enerji Sustainability Education",
       objective: "Energy conservation course for school leadership (Rise 360). Reached 450+ schools ",
@@ -63,24 +87,12 @@ export const state = () => {
       imageUrl:
         "CE7.png"
     },
-    
-    {
-      id: 6,
-      title:
-       "Life Skills for Women Leaders",
-       objective: "Microlearning animation (Biteable). Case received Best Case Award from International Management Research Academy, London ",
-       url:
-         "https://biteable.com/watch/understanding-boundary-through-animation-micro-l-2596181",
-      publication: "Grihini, Tata Motors Limited, Pune, India",
-      Year: "2015",
-      imageUrl:
-        "G7.png" 
-      },   
 
+    
       {
-        id: 7,
+        id: 8,
         title:"Salesforce Training",
-        objective: "Branched scenario, software simulation, job aids, and interactive screenshots; trained staff in Europe, Asia, and Australia (Adobe Captivate)",
+        objective: "Branched scenario, job aids, and interactive screenshots; trained staff in Europe, Asia, and Australia (Adobe Captivate)",
         url:"https://360.articulate.com/review/content/b0ff34a5-8707-49c6-bf5f-10a1ee0ec8a3/review",
         publication: "Room To Read, San Francisco, USA",
         Year: "2020",
@@ -90,7 +102,7 @@ export const state = () => {
 
 
     {
-      id: 8,
+      id: 9,
       title: " E-Learning in Agriculture ",
       objective: "Content and business development framework for agri-ed-tech - to reach a new market of ~100 Mn people",
       url:
@@ -102,7 +114,7 @@ export const state = () => {
     },
 
     {
-      id: 9,
+      id: 10,
       title:
         "Professional Driver Training Initiative",
       objective: "Training material for sales professionals (Vyond)",
@@ -115,7 +127,7 @@ export const state = () => {
     },
 
     {
-      id: 10,
+      id: 11,
       title:
         "Design Thinking for Cost & Value Innovation",
       objective:"Case study and dial interactions on innovation (Storyline)",
@@ -128,7 +140,7 @@ export const state = () => {
     },
 
     {
-      id: 11,
+      id: 12,
       title: "Online Education Business Development",
       objective: "Ed-tech case study for postgraduates and executives; program earns ~$2 Mn annually.",
       url:
