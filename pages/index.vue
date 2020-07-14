@@ -25,7 +25,7 @@
               class="stuffParent"
               v-for="individualStuff in $store.state.stuff"
               :key="individualStuff.id"
-              v-if="individualStuff.id < 6"
+              v-if="individualStuff.id < 7"
             >
               <a :href="individualStuff.url" target="_blank">
                 <div class="stuffImage">
@@ -52,7 +52,7 @@
               class="stuffParent-right"
               v-for="individualStuff in $store.state.stuff"
               :key="individualStuff.id"
-              v-if="individualStuff.id >= 6"
+              v-if="individualStuff.id >= 7"
             >
               <a :href="individualStuff.url" target="_blank">
                 <div class="stuffImage">

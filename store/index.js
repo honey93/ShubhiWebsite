@@ -65,18 +65,6 @@ export const state = () => {
 
     {
       id: 6,
-      title:"Micro-e-learning AI Software Simulation",
-      objective: "Design, develop demonstration, interactive practice steps, and test (Articulate Storyline)",
-      url:
-        "https://360.articulate.com/review/content/65ded30d-dd38-406c-99c9-c91fa4518485/review",
-      publication: "Techstars Startup, San Francisco",
-      Year: "2020",
-      imageUrl:
-        "IL1.png"
-    },
-
-    {
-      id: 7,
       title:
         "Club Enerji Sustainability Education",
       objective: "Energy conservation course for school leadership (Rise 360). Reached 450+ schools ",
@@ -88,11 +76,23 @@ export const state = () => {
         "CE7.png"
     },
 
+    {
+      id: 7,
+      title:"Interactive AI Software Simulation",
+      objective: "Design, develop software demonstration, practice steps, and test (Articulate Storyline)",
+      url:
+        "https://360.articulate.com/review/content/65ded30d-dd38-406c-99c9-c91fa4518485/review",
+      publication: "Techstars 2019 Startup, San Francisco, USA",
+      Year: "2020",
+      imageUrl:
+        "IL1.png"
+    },
+
     
       {
         id: 8,
         title:"Salesforce Training",
-        objective: "Branched scenario, job aids, and interactive screenshots; trained staff in Europe, Asia, and Australia (Adobe Captivate)",
+        objective: "Develop job aids & interactive screenshots; trained staff in Europe and Australia (Adobe Captivate)",
         url:"https://360.articulate.com/review/content/b0ff34a5-8707-49c6-bf5f-10a1ee0ec8a3/review",
         publication: "Room To Read, San Francisco, USA",
         Year: "2020",
@@ -104,7 +104,7 @@ export const state = () => {
     {
       id: 9,
       title: " E-Learning in Agriculture ",
-      objective: "Content and business development framework for agri-ed-tech - to reach a new market of ~100 Mn people",
+      objective: "Developed content & business development framework for agri-ed-tech - capturing a new market of ~50 Mn people",
       url:
         "https://www.slideshare.net/secret/EGBdN99RltKLkw",
       publication: "Coursera, Mountain View, USA",
