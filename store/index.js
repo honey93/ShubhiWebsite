@@ -43,7 +43,7 @@ export const state = () => {
       title:"Refashoning Lives of Rural Women Artisans",
       objective: "Case study with branched scenario's for handicraft industry professionals",
       url:
-        "https://drive.google.com/drive/folders/19c8QXekIMiYDUY6QORaVsiCIL-pZHHo9?usp=sharing",
+        "https://drive.google.com/file/d/1Bo1Nn5gTkH6I9Utv_s4tDIlin2OGuckv/view?usp=sharing",
       publication: "Okhai Enterprise, Gujarat, India",
       Year: "2017",
       imageUrl:
@@ -56,7 +56,7 @@ export const state = () => {
         "Greenolution: Environmental Conservation",
       objective: "Case study with layers interaction for sustainability professionals (Articulate)",
       url:
-         "https://360.articulate.com/review/content/04a96cae-cfa1-4480-ad76-84d2a53636b0/review",
+         "https://360.articulate.com/review/content/73a24af8-1af9-4b8f-9200-c51874cab129/review",
       publication: "Tata Power Limited, Mumbai, India",
       Year: "2016",
       imageUrl:
@@ -66,9 +66,9 @@ export const state = () => {
     {
       id: 6,
       title:"Physics and Technology for Future Presidents",
-      objective: "Design, develop, deliver interactive training and game (Canvas LMS, Storyline)",
+      objective: "Design/develop/deliver interactive training and game (Canvas LMS, Storyline)",
       url:
-        "https://360.articulate.com/review/content/15915d84-7b73-4221-b60e-c07ca206bc89/review",
+        "https://360.articulate.com/review/content/c2b47a5b-d0d0-46d6-9b4f-4ff1dbf5c258/review",
       publication: "University of California, Berkeley, USA",
       Year: "2018",
       imageUrl:
@@ -92,13 +92,12 @@ export const state = () => {
         id: 8,
         title:"Salesforce Interactive Screenshots",
         objective: "Develop training & job aids; trained staff in Europe and Australia (Adobe Captivate)",
-        url:"https://360.articulate.com/review/content/b0ff34a5-8707-49c6-bf5f-10a1ee0ec8a3/review",
+        url:"https://360.articulate.com/review/content/1381f364-5235-4cc6-ab05-1cdb77c184ea/review",
         publication: "Room To Read, San Francisco, USA",
         Year: "2020",
         imageUrl:
           "SF7.png"
       },
-
 
     {
       id: 9,
@@ -116,9 +115,9 @@ export const state = () => {
       id: 10,
       title:
         "Professional Driver Training",
-      objective: "Case study and teaching notes for sales professionals (Vyond)",
+      objective: "Case study and animated teaching notes for sales professionals (Vyond)",
       url:
-         "https://drive.google.com/drive/folders/1cy2P9xkNe3IS7Ln6RjR0NmT46i24oOAP?usp=sharing",
+         "https://drive.google.com/file/d/1DfVHaPyscHkRKc9zHY7gU1Wjs4KXRRlZ/view?usp=sharing",
       publication: "Tata Motors Limited, Pune, India",
       Year: "In Process",
       imageUrl:
@@ -131,7 +130,7 @@ export const state = () => {
         "Design Thinking for Cost & Value Innovation",
       objective:"Case study with dial interaction (Storyline)",
       url:
-         "https://360.articulate.com/review/content/d1e4b017-6cb2-44e8-8b5b-5ae49a4ec61a/review",
+         "https://360.articulate.com/review/content/2a17bd6f-ab86-4547-951f-555e9ad6e155/review",
       publication: "Tata Communication Limited, Mumbai, India",
       Year: "2017",
       imageUrl:
@@ -156,7 +155,7 @@ export const state = () => {
       title: "Online MBA",
       objective: "Analysis/design of online MBA program; created case study on e-learning business development; program earns ~$2 Mn annually.",
       url:
-        "https://drive.google.com/drive/folders/1-COJKyPPwn4lvu5dnr-so1HZt0LEt7TT?usp=sharing",
+        "https://drive.google.com/file/d/16cSDlDmBBHkLL9ng3BkNSir0FKORtY4j/view?usp=sharing",
       publication: "Indian Institute of Management Ahd, India",
       Year: "2019",
       imageUrl:
