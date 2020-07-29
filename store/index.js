@@ -3,7 +3,7 @@ export const state = () => {
 
     {
       id: 1,
-      title: "Transforming Agriculture Sector with E-Learning",
+      title: "Transforming Agriculture Sector with Ed-Tech",
       objective: "Need Assessment for Business & Content Development to capture new market of ~50Mn farmers",
       url:
         "https://drive.google.com/file/d/10K1XRE-PZwGXe5br8ypjcR4VuhV5zqAM/view?usp=sharing",
@@ -98,7 +98,7 @@ export const state = () => {
       publication: "Techstars 2019 Startup, San Francisco, USA",
       Year: "2020",
       imageUrl:
-        "sx2.png" 
+        "sx3.png" 
       },  
 
     {
