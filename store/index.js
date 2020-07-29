@@ -68,7 +68,7 @@ export const state = () => {
       title:"Artificial Intelligence to Accelerate Lease Review",
       objective: "Design/develop software simulation, interactive practice and test (Articulate Storyline)",
       url:
-        "https://360.articulate.com/review/content/65ded30d-dd38-406c-99c9-c91fa4518485/review",
+        "https://360.articulate.com/review/content/daf58eb0-68f6-45e5-a0c8-48db14866390/review",
       publication: "Techstars 2019 Startup, San Francisco, USA",
       Year: "2020",
       imageUrl:
@@ -91,14 +91,14 @@ export const state = () => {
     {
       id: 8,
       title:
-       "SPIN Technique to Aquire your Next Big Client",
+       "Aquire your Next Big Client with SPIN Selling",
        objective: "Design/develop sales training with scenario (Articulate Rise 360)",
        url:
          "https://rise.articulate.com/share/FzdKl1V1pQNdmlLzGV8UawZ8SLw2mu6G",
       publication: "Techstars 2019 Startup, San Francisco, USA",
       Year: "2020",
       imageUrl:
-        "scenario.png" 
+        "sx2.png" 
       },  
 
     {
