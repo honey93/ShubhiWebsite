@@ -47,7 +47,7 @@ export const state = () => {
       publication: "Okhai Enterprise, Gujarat, India",
       Year: "2017",
       imageUrl:
-        "GH6.png"
+        "GH7.png"
     },
     
     {
@@ -68,7 +68,7 @@ export const state = () => {
       title:"Artificial Intelligence to Accelerate Lease Review",
       objective: "Design/develop software simulation, interactive practice and test (Articulate Storyline)",
       url:
-        "https://360.articulate.com/review/content/daf58eb0-68f6-45e5-a0c8-48db14866390/review",
+        "https://360.articulate.com/review/content/78ba5db8-8663-4e8e-9dad-bb6aa6ba25d5/review",
       publication: "Techstars 2019 Startup, San Francisco, USA",
       Year: "2020",
       imageUrl:
