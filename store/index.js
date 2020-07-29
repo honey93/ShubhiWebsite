@@ -3,7 +3,7 @@ export const state = () => {
 
     {
       id: 1,
-      title: "Tranforming Agriculture Sector with E-Learning",
+      title: "Transforming Agriculture Sector with E-Learning",
       objective: "Need Assessment for Business & Content Development to capture new market of ~50Mn farmers",
       url:
         "https://drive.google.com/file/d/10K1XRE-PZwGXe5br8ypjcR4VuhV5zqAM/view?usp=sharing",
@@ -27,7 +27,7 @@ export const state = () => {
 
     {
       id: 3,
-      title: "IIMA's Digital Leap",
+      title: "IIMA's Leap: Digitalizing MBA Programs",
       objective: "Analysis/Design of online post graduate & executive education program;published case study; program earns ~$2 Mn annually.",
       url:
         "https://drive.google.com/file/d/16cSDlDmBBHkLL9ng3BkNSir0FKORtY4j/view?usp=sharing",
@@ -78,7 +78,7 @@ export const state = () => {
     
     {
       id: 7,
-      title: "Inclusive Policies for Sustainable Development",
+      title: "Digital Skills for Inclusive Development",
       objective: "Created fin-tech and ed-tech training content for policy makers of 40+ Asia Pacific nations.",
       url:
         "https://www.unescap.org/sites/default/files/Inclusive%20Use%20of%20Broadband%20Connectivity%20for%20Quality%20Education%2C%20Insights%20from%20Asia%20and%20the%20Pacific_0.pdf",
@@ -91,7 +91,7 @@ export const state = () => {
     {
       id: 8,
       title:
-       "Aquire your Next Big Client with SPIN Selling",
+       "Acquire your Next Big Client with SPIN Selling",
        objective: "Design/develop sales training with scenario (Articulate Rise 360)",
        url:
          "https://rise.articulate.com/share/FzdKl1V1pQNdmlLzGV8UawZ8SLw2mu6G",
