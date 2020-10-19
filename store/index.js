@@ -66,9 +66,9 @@ export const state = () => {
     {
       id: 6,
       title:"Artificial Intelligence to Accelerate Lease Review",
-      objective: "Design/develop software simulation, interactive practice and test (Articulate Storyline)",
+      objective: "Design/develop interactive software simulation (Articulate Storyline)",
       url:
-        "https://360.articulate.com/review/content/78ba5db8-8663-4e8e-9dad-bb6aa6ba25d5/review",
+        "https://shubhiiima.wixsite.com/shubhithakuria/articulate-storyline",
       publication: "Techstars 2019 Startup, San Francisco, USA",
       Year: "2020",
       imageUrl:
@@ -126,7 +126,31 @@ export const state = () => {
       imageUrl:
         "G9.png" 
       },   
-
+       
+      {
+        id: 11,
+        title:
+         "E-Learning components",
+         objective: "Created an Inforgraphic (Canva) ",
+         url:
+           "https://drive.google.com/file/d/1CisohJKUJrb4PhyuvPma5TTh2mxhaqK-/view?usp=sharing",
+        publication: "effectiveEd.tech",
+        Year: "2020",
+        imageUrl:
+          "1.png" 
+        },  
+        {
+          id: 12,
+          title:
+           "Design Principles for Visual Communication",
+           objective: "Designed and Delivered a talk on Graphic Design Principles (Canva)  ",
+           url:
+             "https://www.canva.com/design/DAELB9GfEFI/64_mXrhkGn9kz8rLDVllJg/view?utm_content=DAELB9GfEFI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton",
+          publication: "NA",
+          Year: "2020",
+          imageUrl:
+            "GD1.png" 
+          }, 
   ],
   companies:[{id:1,name:"Room To Read",url:"R2R1.png",duration:"Jan 2020 - Apil 2020"},
   {id:2,name:"Coursera",url:"cour.png", duration:"Nov 2019 - May 2020"},
