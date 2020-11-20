@@ -6,7 +6,7 @@ export const state = () => {
       title: "Transforming Agriculture Sector with Ed-Tech",
       objective: "Need Assessment for Business & Content Development to capture new market of ~50Mn farmers",
       url:
-        "https://shubhiiima.wixsite.com/shubhithakuria/copy-of-articulate-storyline",
+        "https://shubhiiima.wixsite.com/shubhithakuria/coursera",
       publication: "Coursera, Mountain View, USA",
       Year: "2019",
       imageUrl:
