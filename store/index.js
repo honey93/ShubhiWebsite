@@ -28,9 +28,9 @@ export const state = () => {
     {
       id: 3,
       title: "IIMA's Leap: Digitalizing MBA Programs",
-      objective: "Analysis/Design of online post graduate & executive education program;published case study; program earns ~$2 Mn annually.",
+      objective: "Designing online MBA product for India's top management institute; program earns recurring revenue of multi million dollars.",
       url:
-        "https://drive.google.com/file/d/16cSDlDmBBHkLL9ng3BkNSir0FKORtY4j/view?usp=sharing",
+        "https://shubhiiima.wixsite.com/shubhithakuria/onlinemba",
       publication: "Indian Institute of Management Ahd, India",
       Year: "2019",
       imageUrl:
@@ -146,7 +146,7 @@ export const state = () => {
            objective: "Designed and Delivered a talk on Graphic Design Principles (Canva)  ",
            url:
              "https://www.canva.com/design/DAELB9GfEFI/64_mXrhkGn9kz8rLDVllJg/view?utm_content=DAELB9GfEFI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton",
-          publication: "NA",
+          publication: "Techstars 2019 Startup, San Francisco, USA",
           Year: "2020",
           imageUrl:
             "GD1.png" 
